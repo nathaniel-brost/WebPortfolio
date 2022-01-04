@@ -13,7 +13,7 @@
 }
 
 .portfolio-data {
-    color: whitesmoke
+    color: rgb(89, 180, 255)
     
 }
 
@@ -30,4 +30,8 @@
 .navbar {
     color: blue;
 
+}
+
+.footer {
+    color:rgb(89, 180, 255)
 }
